@@ -4,3 +4,16 @@ A hackathon project to assist users eager manage their health. The application i
 To personalise the experience, the user can also select a personality to act as their coach which suits their style. The messages will be in the voice of that persona.
 
 Created by Samuel Ola, Michael James and John Lingi
+
+## How to run
+
+First build
+```
+npm run build
+```
+
+then run
+
+```
+npm run preview
+```
